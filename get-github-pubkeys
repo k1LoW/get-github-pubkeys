@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -e
+
+for name in $@; do
+    curl -sL "https://github.com/${name}.keys"
+done
