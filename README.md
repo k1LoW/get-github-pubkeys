@@ -1,4 +1,4 @@
-# :key: get-github-pubkeys :octocat:
+# get-github-pubkeys
 
 ## Usage
 
